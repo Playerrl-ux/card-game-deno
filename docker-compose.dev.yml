@@ -1,0 +1,19 @@
+services:
+  game:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "9000:9000"
+    develop:
+      watch:
+        - action: sync+restart
+          path: ./src
+          target: /app/src
+        - action: rebuild
+          path: deno.json
+    volumes:
+      - type: bind
+        source: ./data
+        target: /app/data
+    command: deno run dev

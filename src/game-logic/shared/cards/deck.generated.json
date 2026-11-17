@@ -1,0 +1,826 @@
+[
+  {
+    "id": 54,
+    "name": "WILD_CARD",
+    "color": "WILD",
+    "type": "WILD_CARD"
+  },
+  {
+    "id": 55,
+    "name": "WILD_CARD",
+    "color": "WILD",
+    "type": "WILD_CARD"
+  },
+  {
+    "id": 56,
+    "name": "WILD_CARD",
+    "color": "WILD",
+    "type": "WILD_CARD"
+  },
+  {
+    "id": 57,
+    "name": "WILD_CARD",
+    "color": "WILD",
+    "type": "WILD_CARD"
+  },
+  {
+    "id": 58,
+    "name": "WILD_DRAW_FOUR",
+    "color": "WILD",
+    "type": "DRAW_4"
+  },
+  {
+    "id": 59,
+    "name": "WILD_DRAW_FOUR",
+    "color": "WILD",
+    "type": "DRAW_4"
+  },
+  {
+    "id": 60,
+    "name": "WILD_DRAW_FOUR",
+    "color": "WILD",
+    "type": "DRAW_4"
+  },
+  {
+    "id": 61,
+    "name": "WILD_DRAW_FOUR",
+    "color": "WILD",
+    "type": "DRAW_4"
+  },
+  {
+    "id": 62,
+    "name": "BLUE_0",
+    "value": 0,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 63,
+    "name": "BLUE_1",
+    "value": 1,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 64,
+    "name": "BLUE_1",
+    "value": 1,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 65,
+    "name": "BLUE_2",
+    "value": 2,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 66,
+    "name": "BLUE_2",
+    "value": 2,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 67,
+    "name": "BLUE_3",
+    "value": 3,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 68,
+    "name": "BLUE_3",
+    "value": 3,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 69,
+    "name": "BLUE_4",
+    "value": 4,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 70,
+    "name": "BLUE_4",
+    "value": 4,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 71,
+    "name": "BLUE_5",
+    "value": 5,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 72,
+    "name": "BLUE_5",
+    "value": 5,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 73,
+    "name": "BLUE_6",
+    "value": 6,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 74,
+    "name": "BLUE_6",
+    "value": 6,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 75,
+    "name": "BLUE_7",
+    "value": 7,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 76,
+    "name": "BLUE_7",
+    "value": 7,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 77,
+    "name": "BLUE_8",
+    "value": 8,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 78,
+    "name": "BLUE_8",
+    "value": 8,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 79,
+    "name": "BLUE_9",
+    "value": 9,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 80,
+    "name": "BLUE_9",
+    "value": 9,
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 81,
+    "name": "BLUE_SKIP",
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "BLOCK"
+  },
+  {
+    "id": 82,
+    "name": "BLUE_SKIP",
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "BLOCK"
+  },
+  {
+    "id": 83,
+    "name": "BLUE_REVERSE",
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "REVERSE"
+  },
+  {
+    "id": 84,
+    "name": "BLUE_REVERSE",
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "REVERSE"
+  },
+  {
+    "id": 85,
+    "name": "BLUE_DRAW_TWO",
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "DRAW_2"
+  },
+  {
+    "id": 86,
+    "name": "BLUE_DRAW_TWO",
+    "color": "BLUE",
+    "effectiveColor": "BLUE",
+    "type": "DRAW_2"
+  },
+  {
+    "id": 87,
+    "name": "RED_0",
+    "value": 0,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 88,
+    "name": "RED_1",
+    "value": 1,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 89,
+    "name": "RED_1",
+    "value": 1,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 90,
+    "name": "RED_2",
+    "value": 2,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 91,
+    "name": "RED_2",
+    "value": 2,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 92,
+    "name": "RED_3",
+    "value": 3,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 93,
+    "name": "RED_3",
+    "value": 3,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 94,
+    "name": "RED_4",
+    "value": 4,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 95,
+    "name": "RED_4",
+    "value": 4,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 96,
+    "name": "RED_5",
+    "value": 5,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 97,
+    "name": "RED_5",
+    "value": 5,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 98,
+    "name": "RED_6",
+    "value": 6,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 99,
+    "name": "RED_6",
+    "value": 6,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 100,
+    "name": "RED_7",
+    "value": 7,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 101,
+    "name": "RED_7",
+    "value": 7,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 102,
+    "name": "RED_8",
+    "value": 8,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 103,
+    "name": "RED_8",
+    "value": 8,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 104,
+    "name": "RED_9",
+    "value": 9,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 105,
+    "name": "RED_9",
+    "value": 9,
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 106,
+    "name": "RED_SKIP",
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "BLOCK"
+  },
+  {
+    "id": 107,
+    "name": "RED_SKIP",
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "BLOCK"
+  },
+  {
+    "id": 108,
+    "name": "RED_REVERSE",
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "REVERSE"
+  },
+  {
+    "id": 109,
+    "name": "RED_REVERSE",
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "REVERSE"
+  },
+  {
+    "id": 110,
+    "name": "RED_DRAW_TWO",
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "DRAW_2"
+  },
+  {
+    "id": 111,
+    "name": "RED_DRAW_TWO",
+    "color": "RED",
+    "effectiveColor": "RED",
+    "type": "DRAW_2"
+  },
+  {
+    "id": 112,
+    "name": "GREEN_0",
+    "value": 0,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 113,
+    "name": "GREEN_1",
+    "value": 1,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 114,
+    "name": "GREEN_1",
+    "value": 1,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 115,
+    "name": "GREEN_2",
+    "value": 2,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 116,
+    "name": "GREEN_2",
+    "value": 2,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 117,
+    "name": "GREEN_3",
+    "value": 3,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 118,
+    "name": "GREEN_3",
+    "value": 3,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 119,
+    "name": "GREEN_4",
+    "value": 4,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 120,
+    "name": "GREEN_4",
+    "value": 4,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 121,
+    "name": "GREEN_5",
+    "value": 5,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 122,
+    "name": "GREEN_5",
+    "value": 5,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 123,
+    "name": "GREEN_6",
+    "value": 6,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 124,
+    "name": "GREEN_6",
+    "value": 6,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 125,
+    "name": "GREEN_7",
+    "value": 7,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 126,
+    "name": "GREEN_7",
+    "value": 7,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 127,
+    "name": "GREEN_8",
+    "value": 8,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 128,
+    "name": "GREEN_8",
+    "value": 8,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 129,
+    "name": "GREEN_9",
+    "value": 9,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 130,
+    "name": "GREEN_9",
+    "value": 9,
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 131,
+    "name": "GREEN_SKIP",
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "BLOCK"
+  },
+  {
+    "id": 132,
+    "name": "GREEN_SKIP",
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "BLOCK"
+  },
+  {
+    "id": 133,
+    "name": "GREEN_REVERSE",
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "REVERSE"
+  },
+  {
+    "id": 134,
+    "name": "GREEN_REVERSE",
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "REVERSE"
+  },
+  {
+    "id": 135,
+    "name": "GREEN_DRAW_TWO",
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "DRAW_2"
+  },
+  {
+    "id": 136,
+    "name": "GREEN_DRAW_TWO",
+    "color": "GREEN",
+    "effectiveColor": "GREEN",
+    "type": "DRAW_2"
+  },
+  {
+    "id": 137,
+    "name": "YELLOW_0",
+    "value": 0,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 138,
+    "name": "YELLOW_1",
+    "value": 1,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 139,
+    "name": "YELLOW_1",
+    "value": 1,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 140,
+    "name": "YELLOW_2",
+    "value": 2,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 141,
+    "name": "YELLOW_2",
+    "value": 2,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 142,
+    "name": "YELLOW_3",
+    "value": 3,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 143,
+    "name": "YELLOW_3",
+    "value": 3,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 144,
+    "name": "YELLOW_4",
+    "value": 4,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 145,
+    "name": "YELLOW_4",
+    "value": 4,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 146,
+    "name": "YELLOW_5",
+    "value": 5,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 147,
+    "name": "YELLOW_5",
+    "value": 5,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 148,
+    "name": "YELLOW_6",
+    "value": 6,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 149,
+    "name": "YELLOW_6",
+    "value": 6,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 150,
+    "name": "YELLOW_7",
+    "value": 7,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 151,
+    "name": "YELLOW_7",
+    "value": 7,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 152,
+    "name": "YELLOW_8",
+    "value": 8,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 153,
+    "name": "YELLOW_8",
+    "value": 8,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 154,
+    "name": "YELLOW_9",
+    "value": 9,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 155,
+    "name": "YELLOW_9",
+    "value": 9,
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "NUMBERED"
+  },
+  {
+    "id": 156,
+    "name": "YELLOW_SKIP",
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "BLOCK"
+  },
+  {
+    "id": 157,
+    "name": "YELLOW_SKIP",
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "BLOCK"
+  },
+  {
+    "id": 158,
+    "name": "YELLOW_REVERSE",
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "REVERSE"
+  },
+  {
+    "id": 159,
+    "name": "YELLOW_REVERSE",
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "REVERSE"
+  },
+  {
+    "id": 160,
+    "name": "YELLOW_DRAW_TWO",
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "DRAW_2"
+  },
+  {
+    "id": 161,
+    "name": "YELLOW_DRAW_TWO",
+    "color": "YELLOW",
+    "effectiveColor": "YELLOW",
+    "type": "DRAW_2"
+  }
+]

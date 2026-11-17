@@ -1,0 +1,6 @@
+services:
+  game:
+    build: .
+    ports:
+      - "9000:9000"
+    command: deno run -A src/network/websocket.controller.ts
