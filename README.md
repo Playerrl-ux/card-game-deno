@@ -79,6 +79,9 @@ ws://localhost:9000/ws
 
 ---
 
+### Atenção
+Esse repositorio abarca somente o backend do jogo. O frontend se encontra em: -----
+
 ## Testes
 
 O projeto conta com testes unitários e de integração cobrindo regras de cartas, efeitos, sistema de bots e conexões de rede.
