@@ -80,7 +80,7 @@ ws://localhost:9000/ws
 ---
 
 ### Atenção
-Esse repositorio abarca somente o backend do jogo. O frontend se encontra em: -----
+Esse repositorio abarca somente o backend do jogo. O frontend se encontra em: [Frontend](https://github.com/Playerrl-ux/card-game-front-deno)
 
 ## Testes
 
